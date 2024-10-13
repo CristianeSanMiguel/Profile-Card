@@ -4,8 +4,9 @@ Este projeto é um simples cartão de perfil criado utilizando HTML e CSS. O obj
 
 ## Demonstração
 
-![Demonstração do Cartão de Perfil]([link-para-sua-imagem.png](https://github.com/CristianeSanMiguel/Profile-Card/blob/main/cartao-perfil.png?raw=true))
-cartao-perfil.png
+[![Demonstração do Cartão de Perfil]([link-para-sua-imagem.png](https://github.com/CristianeSanMiguel/Profile-Card/blob/main/cartao-perfil.png?raw=true))
+cartao-perfil.png](https://raw.githubusercontent.com/CristianeSanMiguel/Profile-Card/988bf4aa99391472f28800f7aa6e9fca0245eda8/cartao-perfil.png
+)
 
 ## Tecnologias Usadas
 
