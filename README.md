@@ -16,4 +16,6 @@ Este projeto é um simples cartão de perfil criado utilizando HTML e CSS. O obj
 
 1. **Clone o repositório**:
    ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+   git clone https://github.com/CristianeSanMiguel/Profile-Card.git
+
+
